@@ -14,7 +14,7 @@ real WHO data with 4,29,435 rows.
 - Peak single day: 27,38,957 cases
 - 3 clear waves: 2020, 2021, 2022
 - Cases dropped 99% from 2021 to 2023
-- Total Deaths: 5,33,623
+- Total Cases: 4.5 Crore | Total Deaths: 5,33,623
 
 ## Charts
 ![Daily Cases](chart1_daily_cases.png)
@@ -22,4 +22,4 @@ real WHO data with 4,29,435 rows.
 ![Monthly Cases](chart3_monthly_cases.png)
 ![Yearly Cases](chart4_yearly_cases.png)
 ![Rolling Average](chart5_rolling_average.png)
-![Power BI Dashboard](powerbi_dashboard_png.png)
+![Power BI Dashboard](powerbi_dashboard.png)
